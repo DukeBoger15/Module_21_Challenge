@@ -13,3 +13,9 @@
 <li>Ganache - Ganache is a high-end development tool, used for running your personal local blockchain network for developing decentralized applications on Ethereum.</li>
 <h3>Usage</h3>
 <li>To use this application, please clone the repository and go to your web browser and launch https://remix.ethereum.org/ </li>
+<li>Open or upload the file, KaseiCoin and on the left hand side deploy compile and deploy the contract.</li>
+<img width="275" alt="image" src="https://user-images.githubusercontent.com/113187706/223569239-b5262e4c-f10e-41ae-9fec-fa5ea276fa01.png">
+<li>Open or upload the file, KaseiCoinCrowdsale and on the left hand side compile and deploy the contract.</li>
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/113187706/223569758-5912a9c4-40d8-436e-9993-5d9d3395d71e.png">
+<img width="233" alt="image" src="https://user-images.githubusercontent.com/113187706/223569846-8a6e6d96-ad48-4d73-97b9-91dae2b2c56e.png">
+<img width="278" alt="image" src="https://user-images.githubusercontent.com/113187706/223569980-163b8dcc-fdf1-4e30-8ba4-b99cc85fb908.png">
